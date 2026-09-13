@@ -40,4 +40,4 @@ VALUES
 (29, 8, 'Cisco CCNA2 Routing and Switching Essentials Online Test', 'Quiz', 20, NULL),
 (30, 8, 'Routing & Switching Essentials', 'Quiz', 16, NULL),
 (31, 8, 'Written Report Routing and Switching Essentials', 'Lab', 4, '2027-03-19'),
-(32, 8, 'Computer and Data Networks Final Exam', 'Exam', 60, NULL)
+(32, 8, 'Computer and Data Networks Final Exam', 'Exam', 60, NULL);
