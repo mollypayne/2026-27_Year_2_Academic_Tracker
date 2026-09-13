@@ -1,0 +1,1 @@
+-- A collection of queries to demonstrate SQL Basics and more 
